@@ -1,17 +1,14 @@
-import logo from './logo.svg';
+import Navbar from './components/navbar';
+import "bootstrap/dist/css/bootstrap.min.css";
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
 
-        <p>
-          It begins. Henry Montenegro
-        </p>
-        
-      </header>
-    </div>
+<div id="navbar">
+  <Navbar />
+</div>
+
   );
 }
 
