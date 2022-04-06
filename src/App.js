@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
 
         <p>
-          It begins. Henry Montenegro
+          It begins. Henry
         </p>
         
       </header>
